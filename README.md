@@ -2,9 +2,6 @@
 
 Mateusz Matyskiewicz
 -------------------------
-This is a **GREAT** repository sooo *cool*
-> "Here is a cool quote"
--------------------------
 Things you want to learn or try in class.
 1. I want to get better with formatting my HTML.
 2. To also enhance my coding skills as I'm not the most confident when in comes to my skills in html, java and CSS
